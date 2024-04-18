@@ -1,0 +1,15 @@
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\EncheLinguica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\EncheLinguica.AssemblyInfoInputs.cache
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\EncheLinguica.AssemblyInfo.cs
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\EncheLinguica.csproj.CoreCompileInputs.cache
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\EncheLinguica.sourcelink.json
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\bin\Debug\net8.0\EncheLinguica.exe
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\bin\Debug\net8.0\EncheLinguica.deps.json
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\bin\Debug\net8.0\EncheLinguica.runtimeconfig.json
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\bin\Debug\net8.0\EncheLinguica.dll
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\bin\Debug\net8.0\EncheLinguica.pdb
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\EncheLinguica.dll
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\refint\EncheLinguica.dll
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\EncheLinguica.pdb
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\EncheLinguica.genruntimeconfig.cache
+C:\Users\deivid\dev\EncheLinguica\vsd-playground\EncheLinguica\obj\Debug\net8.0\ref\EncheLinguica.dll
